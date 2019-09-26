@@ -6,4 +6,17 @@
     <string name="chBox">"Check this out!"</string>
     <string name="switchText">"Switch on\\off"</string>
     <string name="textToType">"Type here"</string>
+    <string name="enterEmail">"Enter your email address:"</string>
+    <string name="emailInputHint">"Type email here"</string>
+    <string name="emailInputHint1">"Enter your email"</string>
+    <string name="password">"Type your password:"</string>
+    <string name="buttonLogin">"LOGIN"</string>
+    <string name="profile">"Your profile"</string>
+    <string name="name">"Your name:"</string>
+    <string name="email">"Your email:"</string>
+    <string name="picture">"Your picture"</string>
+    <string name="clickPicture">"Click the button above to take your picture"</string>
+    <string name="nameInputHint">"Enter your name"</string>
+
+
 </resources>

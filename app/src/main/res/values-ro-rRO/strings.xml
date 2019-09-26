@@ -7,4 +7,15 @@
     <string name="chBox">"Uita-te la aceasta!"</string>
     <string name="switchText">"Pornit\\Oprit"</string>
     <string name="textToType">"Tapeaza aici"</string>
+    <string name="enterEmail">"Introduceti adresa de email"</string>
+    <string name="emailInputHint">"Introduceti email-ul aici"</string>
+    <string name="emailInputHint1">"Introduceti email-ul"</string>
+    <string name="password">"Introduceti parola"</string>
+    <string name="buttonLogin">"AUTENTIFICARE"</string>
+    <string name="profile">"Profilul tau"</string>
+    <string name="name">"Numele:"</string>
+    <string name="email">"Email-lu:"</string>
+    <string name="picture">"Foto"</string>
+    <string name="clickPicture">"Apasa pentru foto"</string>
+    <string name="nameInputHint">"Introduce numele:"</string>
 </resources>
