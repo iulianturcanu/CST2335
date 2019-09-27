@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AndroidLabs</string>
-    <string name="hello_message">"Salutare Lume!"</string>
-    <string name="ButtonText" >"APASA AICI"</string>
-    <string name="GUI">"Uita-te la GUI-ul meu"</string>
-    <string name="chBox">"Uita-te la aceasta!"</string>
-    <string name="switchText">"Pornit\\Oprit"</string>
     <string name="textToType">"Tapeaza aici"</string>
     <string name="enterEmail">"Introduceti adresa de email"</string>
     <string name="emailInputHint">"Introduceti email-ul aici"</string>
