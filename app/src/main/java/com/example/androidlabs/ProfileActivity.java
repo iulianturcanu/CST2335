@@ -17,6 +17,7 @@ public class ProfileActivity extends AppCompatActivity {
     static final int REQUEST_IMAGE_CAPTURE = 1;
     public static final String ACTIVITY_NAME = "PROFILE_ACTIVITY";
     ImageButton mImageButton;
+    Button goToChatButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +38,12 @@ public class ProfileActivity extends AppCompatActivity {
             if (takePictureIntent.resolveActivity(getPackageManager()) != null) {
                 startActivityForResult(takePictureIntent, REQUEST_IMAGE_CAPTURE);
             }});
+
+        goToChatButton = findViewById(R.id.goToChat);
+        goToChatButton.setOnClickListener(clk -> {
+            Intent chatPage = new Intent(ProfileActivity.this, ChatRoomActivity.class);
+            startActivity(chatPage);
+        });
 
     }
 
@@ -95,5 +102,7 @@ public class ProfileActivity extends AppCompatActivity {
             mImageButton.setImageBitmap(imageBitmap);
         }
     }
+
+
 
 }

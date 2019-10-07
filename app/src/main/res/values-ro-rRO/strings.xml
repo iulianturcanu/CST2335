@@ -13,4 +13,8 @@
     <string name="picture">"Foto"</string>
     <string name="clickPicture">"Apasa pentru foto"</string>
     <string name="nameInputHint">"Introduce numele:"</string>
+    <string name="goToChat">"Porneste Chat-ul"</string>
+    <string name="send">"EXPEDIAZA"</string>
+    <string name="receive">"PRIMESTE"</string>
+    <string name="placeholder">"Tapeaza aici"</string>
 </resources>
