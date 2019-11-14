@@ -22,4 +22,6 @@
     <string name="currentTemp">Temperatura curenta</string>
     <string name="minTemp">Temperatura minima </string>
     <string name="maxTemp">Temperatura maxima </string>
+    <string name="uvRate">rata UV</string>
+    <string name="toolbar">Mergi la pagina toolbar</string>
 </resources>
