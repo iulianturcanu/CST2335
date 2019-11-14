@@ -16,6 +16,14 @@
     <string name="send">"SEND"</string>
     <string name="receive">"RECEIVE"</string>
     <string name="placeholder">"Type here"</string>
+    <string name="weather">Weather Forecast</string>
+    <string name="weatherB">Weather Forecast</string>
+    <string name="currentTemp">Current Temperature: </string>
+    <string name="minTemp">Min. Temperature: </string>
+    <string name="maxTemp">Max. Temperature: </string>
+    <string name="uvRate">UV rate</string>
+
+
 
 
 </resources>

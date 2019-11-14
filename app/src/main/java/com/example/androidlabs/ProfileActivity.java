@@ -18,6 +18,7 @@ public class ProfileActivity extends AppCompatActivity {
     public static final String ACTIVITY_NAME = "PROFILE_ACTIVITY";
     ImageButton mImageButton;
     Button goToChatButton;
+    Button weatherBtn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,6 +45,12 @@ public class ProfileActivity extends AppCompatActivity {
             Intent chatPage = new Intent(ProfileActivity.this, ChatRoomActivity.class);
             startActivity(chatPage);
         });
+
+        weatherBtn = findViewById(R.id.weatherBtn);
+        weatherBtn.setOnClickListener(clk->{
+                Intent weatherAct = new Intent(ProfileActivity.this, WeatherForecast.class);
+                startActivity(weatherAct);
+                });
 
     }
 

@@ -17,4 +17,9 @@
     <string name="send">"EXPEDIAZA"</string>
     <string name="receive">"PRIMESTE"</string>
     <string name="placeholder">"Tapeaza aici"</string>
+    <string name="weather">Timpul probabil</string>
+    <string name="weatherB">Timpul probabil</string>
+    <string name="currentTemp">Temperatura curenta</string>
+    <string name="minTemp">Temperatura minima </string>
+    <string name="maxTemp">Temperatura maxima </string>
 </resources>

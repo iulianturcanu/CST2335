@@ -46,5 +46,11 @@
         android:layout_height="wrap_content"
         android:text="@string/goToChat"
         android:textAlignment="center"/>
+    <Button
+        android:id="@+id/weatherBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/weather"
+        android:textAlignment="center"/>
 
 </LinearLayout>
